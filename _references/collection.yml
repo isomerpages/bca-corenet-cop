@@ -2,4 +2,5 @@ collections:
   references:
     output: true
     order:
+      - Service Blueprint.md
       - IFC SG Resource Kit.md
