@@ -2,5 +2,6 @@ collections:
   introduction:
     output: true
     order:
+      - Frequently Asked Questions.md
       - How to Use This Code of Practice.md
       - Overview and Benefits of CORENET X.md
