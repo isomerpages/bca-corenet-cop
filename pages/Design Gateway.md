@@ -3,6 +3,7 @@ title: Design Gateway
 permalink: /design-gateway/
 description: ""
 ---
+
 | [Pre-Submission and Planning Consultation](/pre-submission-and-planning-consultation/) |  [Design Gateway](/design-gateway)  |  Piling Gateway | Commencement of Works | Construction Gateway | Independent Agency Submissions |TOP/CSC Gateway |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 
