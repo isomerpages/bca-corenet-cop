@@ -17,8 +17,8 @@ collections:
       - Submission Gateways/.keep
       - Submission Gateways/Main Gateways.md
       - Submission Gateways/Common Gateway Key Words.md
-      - IFC SG and Modelling/IFC SG Properties.md
-      - IFC SG and Modelling/IFC SG Entities.md
-      - IFC SG and Modelling/Typical Components in a Project.md
       - IFC SG and Modelling/.keep
+      - IFC SG and Modelling/Typical Components in a Project.md
+      - IFC SG and Modelling/IFC SG Entities.md
+      - IFC SG and Modelling/IFC SG Properties.md
       - Supplementary Documents/.keep
