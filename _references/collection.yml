@@ -2,5 +2,6 @@ collections:
   references:
     output: true
     order:
+      - CORENET X Website.md
       - Service Blueprint.md
       - IFC SG Resource Kit.md
