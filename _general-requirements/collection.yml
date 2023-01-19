@@ -2,4 +2,5 @@ collections:
   general-requirements:
     output: true
     order:
+      - File Submission Package.md
       - Participating Agencies.md
