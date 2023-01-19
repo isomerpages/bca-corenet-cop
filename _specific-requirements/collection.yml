@@ -14,8 +14,8 @@ collections:
       - Project Disciplines/Architecture.md
       - Project Disciplines/Civil & Structural Engineering.md
       - Project Disciplines/Mechanical & Electrical Engineering.md
-      - Submission Gateways/Common Gateway Key Words.md
-      - Submission Gateways/Main Gateways.md
       - Submission Gateways/.keep
+      - Submission Gateways/Main Gateways.md
+      - Submission Gateways/Common Gateway Key Words.md
       - IFC SG and Modelling/.keep
       - Supplementary Documents/.keep
