@@ -3,6 +3,8 @@ title: Participating Agencies
 permalink: /general-requirements/participating-agencies/
 description: ""
 ---
+The CORENET X Code of Practice assists Qualified Persons (“QPs”) to develop CORENET X submissions for agencies as follows:
+
 | Regulatory Agencies | Agency-specific Approvals |
 | -------- | -------- |
 | BCA     | • ST Approvals for Permanent Piling Works and Substructure Works <br>• Notice of Approval of Building Plans <br> • Notice of Approval of Structural Plans <br> • Notice of Approval of independent requirements (e.g. demolition, excavation, barriers & cladding)     | 
