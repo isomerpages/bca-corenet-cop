@@ -7,5 +7,4 @@ description: ""
 
 | Agency | Requirement Category | Common Components |
 | -------- | -------- | -------- |
-| BCA     | Accessible vehicle parking     | • Accessible Route <br>• Vehicular Parking     |
-
+| [BCA](/specific-requirements/Regulatory-Agencies/bca-requirements/)     | Accessible vehicle parking     | • Accessible Route <br>• Vehicular Parking     |
