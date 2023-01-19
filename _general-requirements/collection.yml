@@ -2,6 +2,7 @@ collections:
   general-requirements:
     output: true
     order:
+      - Model Setup.md
       - Model Creation and Sharing.md
       - File Submission Package.md
       - Participating Agencies.md
