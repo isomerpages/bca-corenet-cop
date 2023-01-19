@@ -2,4 +2,5 @@ collections:
   specific-requirements:
     output: true
     order:
+      - IFC SG and Modelling/.keep
       - Supplementary Documents/.keep
