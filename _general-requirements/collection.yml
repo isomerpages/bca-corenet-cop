@@ -1,5 +1,4 @@
 collections:
   general-requirements:
     output: true
-    order:
-      - example-page.md
+    order: []
