@@ -2,6 +2,7 @@ collections:
   specific-requirements:
     output: true
     order:
+      - Project Disciplines/.keep
       - Submission Gateways/.keep
       - IFC SG and Modelling/.keep
       - Supplementary Documents/.keep
