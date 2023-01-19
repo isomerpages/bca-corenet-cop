@@ -1,4 +1,5 @@
 collections:
   specific-requirements:
     output: true
-    order: []
+    order:
+      - Supplementary Documents/.keep
