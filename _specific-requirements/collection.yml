@@ -2,5 +2,6 @@ collections:
   specific-requirements:
     output: true
     order:
+      - Submission Gateways/.keep
       - IFC SG and Modelling/.keep
       - Supplementary Documents/.keep
