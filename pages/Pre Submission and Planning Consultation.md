@@ -18,8 +18,3 @@ More information can be found from the Components as listed in bullets.
 | Agency | Requirement Category | Common Components |
 | -------- | -------- | -------- |
 | LTA     | Pre application feasibility study & recommendations<br> Conduct and completion of PAFS for specific developments to be completed  | -|
-
-
-
-
-
