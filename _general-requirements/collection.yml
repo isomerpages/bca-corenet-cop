@@ -2,8 +2,8 @@ collections:
   general-requirements:
     output: true
     order:
+      - Participating Agencies.md
       - Definitions.md
       - Model Setup.md
       - Model Creation and Sharing.md
       - File Submission Package.md
-      - Participating Agencies.md
