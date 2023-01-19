@@ -1,0 +1,6 @@
+---
+title: IFC SG Properties
+permalink: /specific-requirements/IFC-SG-and-Modelling/ifc-sg-properties/
+description: ""
+third_nav_title: IFC SG and Modelling
+---
