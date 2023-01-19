@@ -1,5 +1,4 @@
 collections:
   general-requirements:
     output: true
-    order:
-      - Participating Agencies/.keep
+    order: []
