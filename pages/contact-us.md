@@ -17,10 +17,4 @@ locations:
         description: ""
     maps_link: ""
     title: Main Office
-contacts:
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
 ---
