@@ -2,7 +2,7 @@ collections:
   introduction:
     output: true
     order:
-      - Acknowledgements.md
-      - Frequently Asked Questions.md
-      - How to Use This Code of Practice.md
       - Overview and Benefits of CORENET X.md
+      - How to Use This Code of Practice.md
+      - Frequently Asked Questions.md
+      - Acknowledgements.md
