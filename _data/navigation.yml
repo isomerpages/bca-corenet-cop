@@ -1,15 +1,56 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
+  - title: Introduction
+    url: /permalink
+    sublinks:
+      - title: Overview and Benefits
+        url: /permalink
+      - title: How to Use
+        url: /permalink
+      - title: Frequently Asked Questions
+        url: /permalink
+      - title: Acknowledgements
+        url: /permalink
+  - title: General Requirements
+    url: /permalink
+    sublinks:
+      - title: Participating Agencies
+        url: /permalink
+      - title: Definitions
+        url: /permalink
+      - title: Model Setup
+        url: /permalink
+      - title: Model Creation and Sharing
+        url: /permalink
+      - title: File Submission Package
+        url: /permalink
+  - title: Specific Requirements, by
+    url: /permalink
+    sublinks:
+      - title: Regulatory Agencies
+        url: /permalink
+      - title: Project Disciplines
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submission Gateways
+        url: /permalink
+      - title: "IFC-SG and Modelling "
+        url: /permalink
+      - title: Supplementary Documents
+        url: /permalink
+  - title: References
+    url: /permalink
+    sublinks:
+      - title: CORENET X Related Info
+        url: /permalink
+      - title: Agency websites
+        url: /permalink
+      - title: Agency regulatory documents
+        url: /permalink
+      - title: Model Checker Info
+        url: /permalink
+      - title: IDD
+        url: /permalink
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+    url: https://support.corenet.gov.sg/hc/en-us
