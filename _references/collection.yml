@@ -1,4 +1,5 @@
 collections:
   references:
     output: true
-    order: []
+    order:
+      - IFC SG Resource Kit.md
