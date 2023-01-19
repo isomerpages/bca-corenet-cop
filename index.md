@@ -1,8 +1,12 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: CORENET X Code of Practice Info site
+description: >-
+  This website is intended to assist project teams in the Built Environment in
+  their understanding on
+
+  preparation for CORENET X submissions. The Code of Practice sets out recommended procedures and good practices to address common queries (e.g. what regulatory data to submit when and how to represent that data in 3D BIM or other formats). The Code of Practice is aimed at providing a consistent approach and standard on CORENET X submissions for the Built Environment project teams.
+image: /images/CXLogo.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
@@ -28,3 +32,4 @@ sections:
       button: Button text
       url: /faq/
 ---
+
