@@ -1,0 +1,31 @@
+collections:
+  specific-requirements:
+    output: true
+    order:
+      - Regulatory Agencies/.keep
+      - Regulatory Agencies/BCA Requirements.md
+      - Regulatory Agencies/LTA Requirements.md
+      - Regulatory Agencies/NEA Requirements.md
+      - Regulatory Agencies/NParks Requirements.md
+      - Regulatory Agencies/SCDF Requirements.md
+      - Regulatory Agencies/SLA Requirements.md
+      - Regulatory Agencies/URA Requirements.md
+      - Project Disciplines/.keep
+      - Project Disciplines/Architecture.md
+      - Project Disciplines/Civil & Structural Engineering.md
+      - Project Disciplines/Mechanical & Electrical Engineering.md
+      - Submission Gateways/.keep
+      - Submission Gateways/Main Gateways.md
+      - Submission Gateways/Common Gateway Key Words.md
+      - IFC SG and Modelling/.keep
+      - IFC SG and Modelling/Typical Components in a Project.md
+      - IFC SG and Modelling/IFC SG Entities.md
+      - IFC SG and Modelling/IFC SG Properties.md
+      - Supplementary Documents/.keep
+      - Supplementary Documents/BCA.md
+      - Supplementary Documents/LTA.md
+      - Supplementary Documents/NEA.md
+      - Supplementary Documents/PUB.md
+      - Supplementary Documents/SCDF.md
+      - Supplementary Documents/SLA.md
+      - Supplementary Documents/URA.md

@@ -1,0 +1,9 @@
+collections:
+  references:
+    output: true
+    order:
+      - Links to IDD.md
+      - Links to Agencies and Regulations.md
+      - CORENET X Website.md
+      - Service Blueprint.md
+      - IFC SG Resource Kit.md
